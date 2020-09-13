@@ -40,7 +40,7 @@ class Welcom_by :
                         |      By : HIDAOUI ANAS         |
                         |        versio: 3.0.4           |        
                         +--------------------------------+
-                        | www.rootAnashidaoui@githab.com |
+                        | https://github.com/AnasHidaoui |
                         |       July 29 2020             |
                         ==================================
         """
