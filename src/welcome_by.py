@@ -25,7 +25,7 @@ class Welcom_by :
                      |  '--'  /'  '-'  '|   ,'.   ||  | `   | 
                      `-------'  `-----' '--'   '--'`--'  `--' 
                         By : HIDAOUI ANAS / Augaust 5 2020 /
-                         https://github.com/rootAnashidaoui
+                         https://github.com/AnasHidaoui
                                 versio: 3.0.4
         """
         print(cs(wel,"purple4").bold())
